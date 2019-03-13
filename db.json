@@ -1,6 +1,5 @@
-{
-  "users": [
-  {"id":1,"first_name":"Urbain","last_name":"Muzzullo","email":"umuzzullo0@sitemeter.com"},
+
+[{"id":1,"first_name":"Urbain","last_name":"Muzzullo","email":"umuzzullo0@sitemeter.com"},
 {"id":2,"first_name":"Val","last_name":"Fisbey","email":"vfisbey1@foxnews.com"},
 {"id":3,"first_name":"Dore","last_name":"Bowerman","email":"dbowerman2@netvibes.com"},
 {"id":4,"first_name":"Tyson","last_name":"Rock","email":"trock3@etsy.com"},
@@ -9,6 +8,4 @@
 {"id":7,"first_name":"Goran","last_name":"Durham","email":"gdurham6@vk.com"},
 {"id":8,"first_name":"Marshall","last_name":"Buttrum","email":"mbuttrum7@army.mil"},
 {"id":9,"first_name":"Chen","last_name":"Ashenhurst","email":"cashenhurst8@wisc.edu"},
-{"id":10,"first_name":"Cale","last_name":"Weatherburn","email":"cweatherburn9@nationalgeographic.com"}
-  ]
-}
+{"id":10,"first_name":"Cale","last_name":"Weatherburn","email":"cweatherburn9@nationalgeographic.com"}]
